@@ -49,6 +49,22 @@
         "marker-symbol": "restaurant",
         "marker-color": "#000"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.425754, 37.761565]
+      },
+      "properties": {
+        "name": "Bi-Rite Creamery",
+        "type": "ice-cream",
+        "description": "Regularly voted the best ice cream in San Francisco.",
+        "link": "http://biritecreamery.com",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "marker-color": "#000"
+      }
     }
   ]
 }
