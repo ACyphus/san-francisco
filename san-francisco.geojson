@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "name": "GitHub",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.391243, 37.782134]
+      },
+      "properties": {
+        "name": "GitHub HQ",
+        "type": "landmark",
+        "description": "The Home of Hubbers.",
+        "link": "https://github.com",
+        "marker-size": "medium",
+        "marker-symbol": "rocket",
+        "marker-color": "#000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.419651, 37.762327]
+      },
+      "properties": {
+        "name": "Southpaw BBQ",
+        "type": "food",
+        "description": "North Carolina Style BBQ, house-brewed beer, well-crafted cocktails, and more than 100 whiskeys.",
+        "link": "http://www.southpawbbqsf.com",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "marker-color": "#000"
+      }
+    }
+  ]
+}
