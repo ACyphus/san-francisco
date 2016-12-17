@@ -33,6 +33,22 @@
         "marker-symbol": "restaurant",
         "marker-color": "#000"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.407132, 37.777559]
+      },
+      "properties": {
+        "name": "Deli Board",
+        "type": "food",
+        "description": "Homemade soups, intimidating sandwiches, and in-your-face sauces. Deli Board has midwest roots, the classic flavors of an East coast deli, and a left coast twist.",
+        "link": "http://www.deliboardsf.com",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "marker-color": "#000"
+      }
     }
   ]
 }
